@@ -1,8 +1,11 @@
 # Hi there, I'm Alessandro Alfonso T Hia! 👋
 
-<p align="center">
-  <img src="https://demolab.com" alt="Matrix Animation" />
-</p>
+```bash
+$ init --role "AI ENGINEER | CORE RESEARCHER"
+[SUCCESS] Deep Learning & Applied AI Environment Initialized.
+>_ Diving deep into Neural Network architectures...
+>_ Solving non-linear datasets from pure scratch...
+```
 
 ---
 
@@ -17,11 +20,14 @@ I am a passionate **AI Engineer** and **Core Researcher** dedicated to understan
 
 ---
 
-### 🛠️ Tech Stack & Expertise
-
-<p align="left">
-  <img src="https://skillicons.dev" alt="My Tech Stack" />
-</p>
+### 🛠️ Tech Stack & Core Expertise
+```python
+# Technical Skills & Framework Arsenal
+core_languages   = ["Python", "C++"]
+ai_frameworks    = ["PyTorch", "TensorFlow", "Scikit-Learn", "Hugging Face"]
+computer_vision  = ["OpenCV", "Image Segmentation", "Object Detection"]
+mlops_devops     = ["Docker", "FastAPI", "Flask", "Git", "Linux OS"]
+```
 
 ---
 
@@ -29,22 +35,9 @@ I am a passionate **AI Engineer** and **Core Researcher** dedicated to understan
 - **Mathematical Foundations:** Calculus, Linear Algebra, Optimization Algorithms, Custom Loss Functions.
 - **Deep Learning & Architectures:** Custom Neural Networks, Transformers, CNNs, RNNs.
 - **Large Language Models (LLMs):** Fine-tuning, Prompt Engineering, RAG (Retrieval-Augmented Generation).
-- **Computer Vision:** Object Detection, Image Segmentation, Edge AI deployment.
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
 
 ---
 
 ### 🤝 Connect with me:
-
-<a href="https://linkedin.com">
-  <img src="https://shields.io" alt="LinkedIn" />
-</a>
-<a href="mailto:alessandroalfonsothia@gmail.com">
-  <img src="https://shields.io" alt="Email" />
-</a>
+* 🌐 **LinkedIn:** [alessandro-alfonso-t-hia-774a28392](https://linkedin.com)
+* 📧 **Email:** alessandroalfonsothia@gmail.com
