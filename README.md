@@ -1,7 +1,7 @@
 # Hi there, I'm Alessandro Alfonso T Hia! 👋
 
 <p align="center">
-  <img src="https://demolab.com..." alt="Typing SVG" />
+  <img src="https://demolab.com" alt="Matrix Animation" />
 </p>
 
 ---
@@ -20,9 +20,7 @@ I am a passionate **AI Engineer** and **Core Researcher** dedicated to understan
 ### 🛠️ Tech Stack & Expertise
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="My Skills" />
-  </a>
+  <img src="https://skillicons.dev" alt="My Tech Stack" />
 </p>
 
 ---
@@ -43,5 +41,10 @@ I am a passionate **AI Engineer** and **Core Researcher** dedicated to understan
 ---
 
 ### 🤝 Connect with me:
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:alessandroalfonsothia@gmail.com)
+
+<a href="https://linkedin.com">
+  <img src="https://shields.io" alt="LinkedIn" />
+</a>
+<a href="mailto:alessandroalfonsothia@gmail.com">
+  <img src="https://shields.io" alt="Email" />
+</a>
