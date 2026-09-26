@@ -1,4 +1,4 @@
-# Hi there, I'm <Nama Kamu>! 👋
+# Hi there, I'm Alessandro Alfonso T Hia! 👋
 ### 🧠 AI Engineer | Deep Learning & Applied AI Specialist
 
 I am a passionate **AI Engineer** dedicated to building, training, and deploying advanced artificial intelligence models. From diving deep into neural network architectures to optimizing models for real-world production, I turn complex data into intelligent solutions.
@@ -34,11 +34,11 @@ I am a passionate **AI Engineer** dedicated to building, training, and deploying
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://vercel.app<USERNAME_KAMU>&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://vercel.appalfonsodev-x7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🤝 Connect with me:
-[![LinkedIn](https://shields.io)](https://linkedin.com<LINKEDIN_KAMU>)
-[![Email](https://shields.io)](mailto:email_kamu@gmail.com)
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/alessandro-alfonso-t-hia-774a28392)
+[![Email](https://shields.io)](mailto:alessandroalfonsothia@gmail.com)
