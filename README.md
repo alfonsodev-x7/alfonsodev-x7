@@ -1,6 +1,12 @@
 # Hi there, I'm Alessandro Alfonso T Hia! 👋
-### 🧠 AI Engineer | Deep Learning & Applied AI Specialist
 
+<p align="center">
+  <img src="https://demolab.com..." alt="Typing SVG" />
+</p>
+
+---
+
+### 🧠 Profile Overview
 I am a passionate **AI Engineer** and **Core Researcher** dedicated to understanding and building artificial intelligence from the ground up. I don't just apply AI frameworks; I dive deep into the underlying mathematics, neural network architectures, and optimization algorithms to build robust, production-grade solutions.
 
 ---
@@ -13,20 +19,11 @@ I am a passionate **AI Engineer** and **Core Researcher** dedicated to understan
 
 ### 🛠️ Tech Stack & Expertise
 
-#### **🤖 Artificial Intelligence & Machine Learning**
-![Python](https://shields.io)
-![PyTorch](https://shields.io)
-![TensorFlow](https://shields.io)
-![Hugging Face](https://shields.io)
-![OpenCV](https://shields.io)
-![Scikit Learn](https://shields.io)
-
-#### **⚙️ MLOps & Deployment**
-![Docker](https://shields.io)
-![FastAPI](https://shields.io)
-![Flask](https://shields.io)
-![Git](https://shields.io)
-![Linux](https://shields.io)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
